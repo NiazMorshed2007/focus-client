@@ -1,0 +1,15 @@
+.app-controller {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  aside {
+    width: 253px;
+    height: 100%;
+    border: 1px solid silver;
+    padding: 10px 8px;
+  }
+  .main-wrapper {
+    width: calc(100vw - 253px);
+  }
+}
