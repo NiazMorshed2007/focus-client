@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Introducing <span style="color: blue;">Focus.app</span> </h1>
 
 
-<h2>Project Status: Ongoing </h2>
+<h4>Project Status: Ongoing </h4>
 
 <img align="center" src="https://github.com/NiazMorshed2007/focus-client/blob/main/public/focus-md-banner.png" width="850" />
 
