@@ -7,6 +7,5 @@
 ```
 > npm install
 > npm run dev
-
 ```
 Head over to localhost:3000 to see the app. 🤹🤹
