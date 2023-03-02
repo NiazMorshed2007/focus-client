@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "~antd/dist/reset.css";
+@import "./vars";
+@import "./controller";
+@import "./reset";
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+p {
+  margin-bottom: 0px;
+}
+
+.org-avatar {
+  background: linear-gradient(165.94deg, #0F0F0F 17.43%, #566373 75.32%);
+  background-blend-mode: darken;
+}
